@@ -10,3 +10,24 @@ clearfix::after{
     display: table;
     clear: both;
 }
+
+.container{
+    width:90%;
+    margin: auto;
+}
+.logo{
+    height: 100px;
+    background-color: aqua;
+    width: 10%;
+}
+.menu{
+    height: 50px;
+    background-color: rgba(0, 119, 255, 0.966);
+    width: 50%;
+}
+.header_image{
+    height: 400px;
+    background-color: rgb(55, 0, 255);
+    width: 100%;
+    border-radius: 10px;
+}
